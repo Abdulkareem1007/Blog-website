@@ -23,6 +23,11 @@
 .m-auto {
   margin: auto;
 }
+
+.my-2 {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
 nav div ul li a {
   color: rgb(10, 10, 10);
   text-decoration: none;

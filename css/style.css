@@ -43,8 +43,8 @@ body {
   text-decoration: none;
   color: #000000;
 }
-.nav-right {
-}
+/* .nav-right {
+} */
 
 .home-articles h2 {
   color: #750505;
@@ -76,6 +76,7 @@ body {
   /* align-items: center; */
   justify-content: center;
   flex-direction: column;
+  padding: 50px;
 }
 .content-left h1 {
   color: #c70404;
@@ -97,9 +98,12 @@ body {
 }
 
 .home-articles {
-  background-color: #f9f6f6;
+  background-color: #fde6e6;
   padding-top: 12px;
   margin-bottom: 50px;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10px;
 }
 
 .home-article {
@@ -129,7 +133,7 @@ body {
 }
 
 .footer {
-  height: 50px;
+  height: 60px;
   background-color: rgb(44, 40, 40);
   color: white;
 }

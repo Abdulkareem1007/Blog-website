@@ -1,0 +1,17 @@
+.contact-content {
+  height: 100vh;
+  /* background-color: rgb(247, 247, 248); */
+  display: block;
+  margin-top: 32px;
+  padding: 10px;
+  font-family: var(--font1);
+}
+
+.form-box input,
+textarea {
+  width: 44vw;
+  padding: 10px 6px;
+  margin: 7px 0;
+  border-radius: 4px;
+  font-family: var(--font1);
+}
