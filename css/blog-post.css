@@ -1,0 +1,15 @@
+.post-img {
+  height: 400px;
+  overflow: hidden;
+}
+
+.post-img img {
+  width: 100%;
+}
+
+.blog-post-content {
+}
+
+.blog-post-content h1 {
+  text-align: center;
+}
